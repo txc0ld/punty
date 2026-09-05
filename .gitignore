@@ -2,3 +2,5 @@ sample_sportsbet.csv
 *.xlsx
 .vercel
 .DS_Store
+
+.vercel
